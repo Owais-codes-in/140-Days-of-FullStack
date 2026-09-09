@@ -35,7 +35,9 @@ Sigma Web Development batch progress tracking repository. Updating daily as I bu
 | **Day 24** | CSS Shadows & Outlines | `box-shadow`, `text-shadow`, `outline` vs `border` properties | ✅ Done |
 | **Day 25** | CSS Styling Lists & Tables | Custom list markers, table borders, collapsed borders & cell spacing | ✅ Done |
 | **Day 26** | CSS Exercise 3 Challenge | Designing a responsive navigation bar layout | ✅ Done |
-| **Day 27** | CSS Exercise 3 Solution | Nav bar solution breakdown, semantic layout review & cleanup | ⏳ In Progress |
+| **Day 27** | CSS Exercise 3 Solution | Nav bar solution breakdown, semantic layout review & cleanup |  ✅ Done |
+| **Day 28** | CSS Flexbox Foundations | Flex container, `flex-direction`, `justify-content`, `align-items`, `flex-wrap` | ✅ Done |
+| **Day 29** | CSS Flexbox Advanced | `flex-grow`, `flex-shrink`, `flex-basis`, `order`, `align-self` | ⏳ In Progress |
 
 ## 🛠️ Current Tech Stack
 - **Frontend:** HTML5, CSS3
