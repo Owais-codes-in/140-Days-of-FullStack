@@ -37,7 +37,8 @@ Sigma Web Development batch progress tracking repository. Updating daily as I bu
 | **Day 26** | CSS Exercise 3 Challenge | Designing a responsive navigation bar layout | ✅ Done |
 | **Day 27** | CSS Exercise 3 Solution | Nav bar solution breakdown, semantic layout review & cleanup |  ✅ Done |
 | **Day 28** | CSS Flexbox Foundations | Flex container, `flex-direction`, `justify-content`, `align-items`, `flex-wrap` | ✅ Done |
-| **Day 29** | CSS Flexbox Advanced | `flex-grow`, `flex-shrink`, `flex-basis`, `order`, `align-self` | ⏳ In Progress |
+| **Day 29** | Card Design Exercise (CSS Challenge 4) | Building a modern card UI using Box model, Flexbox & Shadows | ✅ Done |
+| **Day 30** | CSS Variables | Custom properties (`--var-name`), `var()` function, local vs `:root` scope | ⏳ In Progress |
 
 ## 🛠️ Current Tech Stack
 - **Frontend:** HTML5, CSS3
