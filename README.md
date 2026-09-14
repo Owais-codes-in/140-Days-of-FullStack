@@ -39,7 +39,9 @@ Sigma Web Development batch progress tracking repository. Updating daily as I bu
 | **Day 28** | CSS Flexbox Foundations | Flex container, `flex-direction`, `justify-content`, `align-items`, `flex-wrap` | ✅ Done |
 | **Day 29** | Card Design Exercise (CSS Challenge 4) | Building a modern card UI using Box model, Flexbox & Shadows | ✅ Done |
 | **Day 30** | CSS Variables | Custom properties (`--var-name`), `var()` function, local vs `:root` scope | ✅ Done |
-| **Day 31** | CSS Media Queries | Responsive layouts, breakpoints, mobile-first design | ⏳ In Progress |
+| **Day 31** | CSS Media Queries | Responsive layouts, breakpoints, mobile-first design | ✅ Done |
+| **Day 32** | Exercise 3 - Solution | Complete responsive navbar implementation using media queries & flexbox | ✅ Done |
+| **Day 33** | Exercise 4 - Multi Color Website | Using CSS variables to build dynamic multi-color themes | ⏳ In Progress |
 
 ## 🛠️ Current Tech Stack
 - **Frontend:** HTML5, CSS3
