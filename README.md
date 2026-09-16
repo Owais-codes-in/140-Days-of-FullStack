@@ -40,7 +40,8 @@ Sigma Web Development batch progress tracking repository. Updating daily as I bu
 | **Day 32** | CSS Exercise 3 Solution | Complete responsive navbar implementation using media queries & flexbox | ✅ Done |
 | **Day 33** | CSS Exercise 4 Solution | Multi-color card/website theme switcher using CSS Variables | ✅ Done |
 | **Day 34** | CSS Exercise 5 Challenge | Creating layout structures & design challenge | ✅ Done |
-| **Day 35** | CSS Exercise 5 Solution | Layout challenge walkthrough & advanced positioning breakdown | ⏳ In Progress |
+| **Day 35** | CSS Exercise 5 Solution | Layout challenge walkthrough & advanced positioning breakdown | ✅ Done |
+| **Day 36** | CSS Grid | `grid-template-columns`, `grid-template-rows`, `gap`, grid areas | ⏳ In Progress |
 
 ## 🛠️ Current Tech Stack
 - **Frontend:** HTML5, CSS3
