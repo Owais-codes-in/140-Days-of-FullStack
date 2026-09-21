@@ -39,11 +39,15 @@ Sigma Web Development batch progress tracking repository. Updating daily as I bu
 | **Day 31** | CSS Media Queries | Responsive breakpoints, `@media screen`, mobile-first styling | ✅ Done |
 | **Day 32** | CSS Exercise 3 Solution | Complete responsive navbar implementation using media queries & flexbox | ✅ Done |
 | **Day 33** | CSS Exercise 4 Solution | Multi-color card/website theme switcher using CSS Variables | ✅ Done |
-| **Day 34** | CSS Exercise 5 Challenge | Creating layout structures & design challenge | ✅ Done |
-| **Day 35** | CSS Exercise 5 Solution | Layout challenge walkthrough & advanced positioning breakdown | ✅ Done |
-| **Day 36** | CSS Grid | `grid-template-columns`, `grid-template-rows`, `gap`, grid areas | ⏳ In Progress |
+| **Day 34** | CSS Exercise 5 Challenge | Layout & card design challenge building custom media UI | ✅ Done |
+| **Day 35** | CSS Exercise 5 Solution | Complete walkthrough of Exercise 5 layout using flexbox & absolute positioning | ✅ Done |
+| **Day 36** | CSS Grid | `grid-template-columns`, `grid-template-rows`, `gap`, grid areas | ✅ Done |
+| **Day 37** | CSS Exercise 6 Challenge | Complex layout challenge using Flexbox and CSS Grid | ✅ Done |
+| **Day 38** | CSS Flexbox vs CSS Grid | 1D vs 2D layout systems, use cases, differences & architecture | ✅ Done |
+| **Day 39** | CSS Transforms | `rotate()`, `scale()`, `translate()`, `skew()`, and 2D/3D transformations | ✅ Done |
+| **Day 40** | CSS Exercise 6 Solution | Complete breakdown and implementation of Exercise 6 layout | ⏳ In Progress |
 
 ## 🛠️ Current Tech Stack
 - **Frontend:** HTML5, CSS3
 - **Tools:** Git, GitHub, VS Code
-- **Next Up:** CSS Grid & Advanced Transitions/Animations
+- **Next Up:** CSS Transitions, Keyframe Animations & Project Work
